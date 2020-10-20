@@ -1,4 +1,4 @@
-# virtualBizcard
+# VirtualBizcard
 # Overview
 This android app is to virtualize business card from paper.
 Paper type of business card is very bulky and difficult to keep (I ofeten miss them).
